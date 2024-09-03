@@ -1,5 +1,5 @@
 import requests
-
+ 
 class Cep:
     def __init__(self, cep):
         cep = str(cep)
